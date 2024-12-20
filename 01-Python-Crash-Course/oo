@@ -1,0 +1,2 @@
+name = 'lyc'
+print(name)
